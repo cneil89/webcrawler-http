@@ -1,0 +1,26 @@
+{
+  "name": "webcrawler-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cneil89/webcrawler-http.git"
+  },
+  "author": "Colin N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cneil89/webcrawler-http/issues"
+  },
+  "homepage": "https://github.com/cneil89/webcrawler-http#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jsdom": "^22.0.0"
+  }
+}
